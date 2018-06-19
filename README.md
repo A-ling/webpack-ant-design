@@ -1,2 +1,2 @@
 # webpack-ant-design
-webpack-ant-design test
+webpack-ant-design
